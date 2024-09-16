@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Billjesh Man Baidya</h1>
 <h3 align="center">A fullstack MERN developer from NEPAL who is currently 18 years old.</h3>
 
+- 🔭 I’m currently working on [Anonymous Chat](https://github.com/BiLJX/annonchat)
+
+- 📫 How to reach me **billjeshbaidya@gmail.com**
+
+- ⚡ Fun fact **I started coding when I was 14 years old.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_biljx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_biljx" height="30" width="40" /></a>
